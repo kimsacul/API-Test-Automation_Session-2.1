@@ -96,3 +96,4 @@ C:\Users\kimsammuel.culanding\source\repos\API-Test-Automation_Session-2.1\Homew
 C:\Users\kimsammuel.culanding\source\repos\API-Test-Automation_Session-2.1\Homework_Session-2.1\obj\Debug\net6.0\Homework_Session-2.1.pdb
 C:\Users\kimsammuel.culanding\source\repos\API-Test-Automation_Session-2.1\Homework_Session-2.1\obj\Debug\net6.0\Homework_Session-2.1.genruntimeconfig.cache
 C:\Users\kimsammuel.culanding\source\repos\API-Test-Automation_Session-2.1\Homework_Session-2.1\obj\Debug\net6.0\ref\Homework_Session-2.1.dll
+C:\Users\kimsammuel.culanding\source\repos\API-Test-Automation_Session-2.1\Homework_Session-2.1\bin\Debug\net6.0\RestSharp.dll

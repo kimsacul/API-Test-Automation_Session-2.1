@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[17.1.0, )"
             },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            },
             "System.Net.Http": {
               "target": "Package",
               "version": "[4.3.4, )"

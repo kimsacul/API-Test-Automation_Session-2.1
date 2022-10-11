@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Lt0EQn5F4a+kLKMrx0GnAgOQJCRrqT14DWyjiVgq2O2fFUL8tur03+a7bxi/f/QE0v+RztZh4jnTwtBflvshfA==",
+  "dgSpecHash": "RUq/3Iw3gVIMpGcIZn9CIxYS2FY2hQE5LCf17qjQ4rvvX+DUrqL1iDeiZNou21OiC4/nY5e9jHp1NRDWDRGwqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kimsammuel.culanding\\source\\repos\\API-Test-Automation_Session-2.1\\Homework_Session-2.1\\Homework_Session-2.1.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\kimsammuel.culanding\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\kimsammuel.culanding\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\kimsammuel.culanding\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\kimsammuel.culanding\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
     "C:\\Users\\kimsammuel.culanding\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\kimsammuel.culanding\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\kimsammuel.culanding\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
