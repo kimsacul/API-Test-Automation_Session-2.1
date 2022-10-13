@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Homework_Session_2._1.DataModels;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using RestSharp;
 using System;
@@ -6,7 +7,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace Homework_Session_2._1
+namespace Homework_Session_2._1.Tests
 {
     [TestClass]
     public class RestSharpTests

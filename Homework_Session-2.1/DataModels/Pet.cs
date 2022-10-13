@@ -5,7 +5,7 @@ using System.Globalization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Homework_Session_2._1
+namespace Homework_Session_2._1.DataModels
 {
     public class Pet
     {

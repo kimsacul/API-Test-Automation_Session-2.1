@@ -10,9 +10,10 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Diagnostics;
+using Homework_Session_2._1.DataModels;
 
 [assembly: Parallelize(Workers = 10, Scope = ExecutionScope.MethodLevel)]
-namespace Homework_Session_2._1
+namespace Homework_Session_2._1.Tests
 {
     [TestClass]
     public class HttpClientTests
